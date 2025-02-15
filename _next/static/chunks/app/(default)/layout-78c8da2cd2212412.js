@@ -16,7 +16,7 @@
         n(9537);
         var s = n(5565);
         let c = {
-            src: "/_next/static/media/LX.bbd99478.webp",
+            src: "/_next/LX.webp",
             height: 1024,
             width: 1024,
             blurDataURL: "data:image/webp;base64,UklGRrwAAABXRUJQVlA4WAoAAAAQAAAABwAABwAAQUxQSEEAAAAAAAAAAAAAAAAATUEHDUpOAAAh3mlx2h4AAABdkMBWAAAAAGzFmGUAAAAs1FtQzyUAAEQsBQIrPAAAAAAAAAAAAABWUDggVAAAABACAJ0BKggACAACQDglAE6AxQDhIzMIbvAA/vfHXo2Mq9BvnS4TkwTnu0kiRMsH48j8/pD/nQu3UR7LKuHdu2M4AWDUNWL548c3b/yzQXVZiAAAAA==",
