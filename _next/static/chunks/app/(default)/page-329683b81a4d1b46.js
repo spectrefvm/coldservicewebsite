@@ -20,7 +20,7 @@
           , i = r(2115)
           , n = r(5565);
         let s = {
-            src: "/_next/static/media/Menu.8eca42ca.webp",
+            src: "/_next/Menu.webp",
             height: 508,
             width: 439,
             blurDataURL: "data:image/webp;base64,UklGRmIAAABXRUJQVlA4WAoAAAAQAAAABgAABwAAQUxQSBIAAAABD9D/iAgIBJLV8tcaIqL/oQFWUDggKgAAALABAJ0BKgcACAACQDglpAAC52DlcAAA/vbhv8T3z/V0knR9EE3YXAwAAA==",
@@ -271,7 +271,7 @@
             default: () => a
         });
         let a = {
-            src: "/_next/static/media/Changelog.31c78148.png",
+            src: "/_next/Changelog.png",
             height: 4096,
             width: 4096,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAHlBMVEVMaXH5+fn+/v7////+/v7////////+/v7///////+H8P1zAAAACnRSTlMABjdRZQ4oQhR/FZWcigAAAAlwSFlzAAALEwAACxMBAJqcGAAAADJJREFUeJw1y0kOACAMAkAKXfT/HzZo5DSBAACBm2CrjeJiuozc6jKUolGz9KYZ8h8BHBMoAImUUbcrAAAAAElFTkSuQmCC",
@@ -287,7 +287,7 @@
             default: () => a
         });
         let a = {
-            src: "/_next/static/media/Discord.a8c32a8f.png",
+            src: "/_next/Discord.png",
             height: 5e3,
             width: 5e3,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAM1BMVEVQXu3Y3flBUu739/1qaulPXe6Hkv1MaXFIWOtzgP5Vaulcc/9IWO3Gy/9mdf+stP+ss/8kWzsRAAAADXRSTlNd+Wj5DGj8AGr+DAtoJtz05gAAAAlwSFlzAAALEwAACxMBAJqcGAAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAA1SURBVHicNYtZDgAQEMXK4Bliuf9pRUJ/26IH6tRKEmKWMhGKy2xHoTxCGPkqd/er2o/ffgA6sQGdyMIOcQAAAABJRU5ErkJggg==",
@@ -303,7 +303,7 @@
             default: () => a
         });
         let a = {
-            src: "/_next/static/media/File_Save.1ad924c8.png",
+            src: "/_next/File_Save.webp",
             height: 4096,
             width: 4096,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAP1BMVEUDgNE9nuEAc9BEaIjDwL6wuLzSx8FMaXEFbKp2n7gAfOOvqKSCenXp4dn///+Uxd1+tth1v/RKksYgnPEfnPGMKWJDAAAAD3RSTlNi+QtaZvn8ACJoXP1iYPyw5dGlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOklEQVR4nGNghwIGdg5OXh5mJnYGdgZBPm4hLhBDmJFRhAHEEGBlFQAz+NnY+EEMDk4WFk4OdgaYdgBFrAHhileX+wAAAABJRU5ErkJggg==",
